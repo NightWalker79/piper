@@ -4,6 +4,7 @@
     },
     "ar": {
         "qasr-low": "1H9y8nlJ3K6_elXsB6YaJKsnbEBYCSF-_",
+        "qasr-medium": "https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx",
         "qasr-high": "10xcE_l1DMQorjnQoRcUF7KP2uRgSr11q"
     },
     "ca": {
